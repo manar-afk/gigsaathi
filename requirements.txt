@@ -1,5 +1,0 @@
-fastapi>=0.110
-uvicorn>=0.29
-google-genai>=1.0
-google-cloud-firestore>=2.16
-tzdata
